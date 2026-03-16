@@ -60,7 +60,7 @@ To provide an interactive visualization tool that helps HR teams monitor attriti
 
 ##6.Screenshoot
 
-![HR-Dashboard](HR dashboard.png)
+![HR Dashboard](HR dashboard.png)
 
 
 
